@@ -1,4 +1,4 @@
-from ignite.engines.engine import Engine
+from ignite.engine import Engine
 import torch
 
 
