@@ -1,4 +1,4 @@
-from ignite.engines import Events
+from ignite.engine import Events
 from tensorboardX import SummaryWriter
 import torch
 import uuid
